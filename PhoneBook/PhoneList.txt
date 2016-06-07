@@ -1,0 +1,41 @@
+(lp0
+(lp1
+S'Jones, Janet'
+p2
+aS'483-5432'
+p3
+aa(lp4
+S'Meyers, Chris'
+p5
+aS'343-4349'
+p6
+aa(lp7
+S'Nelson, Eric'
+p8
+aS'485-2689'
+p9
+aa(lp10
+S'Prefect, Ford'
+p11
+aS'987-6543'
+p12
+aa(lp13
+S'Smith, Bob'
+p14
+aS'689-1234'
+p15
+aa(lp16
+S'Smith, Robert'
+p17
+ag15
+aa(lp18
+S'Zigler, Mary'
+p19
+aS'567-8901'
+p20
+aa(lp21
+S'andrew'
+p22
+aS'NULL'
+p23
+aa.
